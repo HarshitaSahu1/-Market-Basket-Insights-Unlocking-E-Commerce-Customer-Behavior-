@@ -77,8 +77,8 @@ Performed detailed analysis on:
 ### 5. Market Basket / Cross-Selling Analysis
 - Analyzed products that are frequently bought together.
 - Performed **association rules analysis** to identify potential product bundles.
-
-
+- for more clear pitcher you can load the Loading_Matrix_File ![Loading_Matrix](Loadings.xls)
+  
 
 ---
 
