@@ -62,7 +62,8 @@ Performed detailed analysis on:
 ![Silhouette_score](Silhoutee_score_list_plot.png)  
 ![Inertia](Inertia_plot.png) 
 ![K-Means Clusters](Clusters.png)  
-![Market_spend Vs Revenue]Market_spend Vs Revenue.png
+![Market_spend Vs Revenue](Market_spend Vs Revenue.png)
+![Day_wise_sales_&_Order_count](Day_wise_sales_&_Order_count.png)
 ---
 
 ### 4. Predicting Customer Lifetime Value (CLV)
